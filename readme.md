@@ -1,1 +1,1 @@
-# THis is an end-to-end project of ML
+# This is an end-to-end project of ML
